@@ -12,7 +12,7 @@ API Endpoint - `https://defend-jedi-temple-be.herokuapp.com`
 
 > POST /leaderboard
 
-- creates a new row in DB with the appropriate name and score
+- creates a new row in DB with the payload name and score
 
 Payload:
 
