@@ -8,7 +8,7 @@ API Endpoint - `https://defend-jedi-temple-be.herokuapp.com`
 
 > GET /leaderboard
 
-- fetches the top 10 scores
+- fetches the top 10 scores, ordered by DESC
 
 > POST /leaderboard
 
