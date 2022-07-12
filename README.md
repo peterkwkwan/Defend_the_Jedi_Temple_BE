@@ -25,7 +25,11 @@ Payload sample:
 
 ## Running the app locally
 
-> node server.js
+1. `npm i`
+
+Installs dependencies.
+
+2. `node server.js`
 
 Starts server.
 
