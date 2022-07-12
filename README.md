@@ -1,6 +1,6 @@
 # Defend the Jedi Temple Backend
 
-This app is hosted on Heroku, using ClearDB as a MySQL Cloud database.
+This app is hosted on Heroku, using ClearDB as a SQL Cloud database.
 
 API Endpoint - `https://defend-jedi-temple-be.herokuapp.com`
 
