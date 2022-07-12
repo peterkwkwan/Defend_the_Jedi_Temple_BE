@@ -25,9 +25,13 @@ Payload sample:
 
 ## Running the app locally
 
+> node server.js
+
+Starts server.
+
 Runs on port 3000.
 
-This requires making a connection to MySQL in local environment. Please initialize a new database and table with DB name being: `defendjeditemple` and table name `leaderboard`.
+Server requires making a connection to MySQL in local environment. Please initialize a new database and table with DB name being: `defendjeditemple` and table name `leaderboard`.
 
 Example for creating leaderboard table:
 
