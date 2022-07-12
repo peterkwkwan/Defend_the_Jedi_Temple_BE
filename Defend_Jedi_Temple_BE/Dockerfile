@@ -1,7 +1,7 @@
 
 FROM node:14
 
-WORKDIR /bezkoder-app
+WORKDIR /Defend_Jedi_Temple_BE
 COPY package.json .
 RUN npm install
 COPY . .

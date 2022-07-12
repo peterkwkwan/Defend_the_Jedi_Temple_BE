@@ -5,7 +5,7 @@ const app = express();
 app.use(cors());
 
 const PORT = process.env.NODE_DOCKER_PORT || 3000;
-const leaderboardRouter = require("./routes/leaderboard");
+const leaderboardRouter = require("./Defend_Jedi_Temple_BE/routes/leaderboard");
 
 app.use(express.json());
 app.use(
