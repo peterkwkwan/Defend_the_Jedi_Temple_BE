@@ -27,11 +27,11 @@ Payload sample:
 
 1. `npm i`
 
-Installs dependencies.
+- Installs dependencies.
 
 2. `node server.js`
 
-Starts server.
+- Starts server.
 
 Runs on port 3000.
 
