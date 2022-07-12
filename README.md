@@ -34,7 +34,7 @@ Example for creating leaderboard table:
 ```
 CREATE TABLE IF NOT EXISTS `leaderboard` (
     id int(11) NOT NULL PRIMARY KEY AUTO_INCREMENT,
-    ame varchar(255) NOT NULL,
+    name varchar(255) NOT NULL,
     score int(255)
     );
 ```
