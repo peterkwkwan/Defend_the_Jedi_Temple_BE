@@ -14,12 +14,12 @@ API Endpoint - `https://defend-jedi-temple-be.herokuapp.com`
 
 - creates a new row in DB with the payload name and score
 
-Payload:
+Payload sample:
 
 ```
 {
-    name: varchar(255)
-    score: int(255)
+    name: 'Peter K',
+    score: 500
 }
 ```
 
